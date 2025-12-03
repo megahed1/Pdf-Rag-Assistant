@@ -84,14 +84,17 @@ To deploy this app online while keeping your API key secure:
 5. Go to your App Settings -> Secrets.
 6. Paste your API key configuration there:
 GROQ_API_KEY = "gsk_xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
 Reboot the app, and it will work perfectly! 🚀
 
 ---
 
 ## 📂 Project Structure
+```
 ├── .streamlit/
 │   └── secrets.toml      # API Keys (Local only - DO NOT UPLOAD)
 ├── app.py                # Main application logic
 ├── requirements.txt      # Python dependencies
 ├── .gitignore            # Files to ignore (secrets, venv, etc.)
 └── README.md             # Project documentation
+```
