@@ -1,6 +1,6 @@
 # 📄 AI PDF Chat Assistant (RAG)
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://streamlit.io])
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pdf-rag-assistant-nxsatzmhdx5afsnznbmkapp.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
 [![Groq API](https://img.shields.io/badge/API-Groq-orange)](https://groq.com/)
 
