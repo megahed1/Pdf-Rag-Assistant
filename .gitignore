@@ -1,0 +1,6 @@
+.streamlit/secrets.toml
+.streamlit/
+
+# ملفات البايثون المؤقتة
+__pycache__/
+*.pyc
